@@ -1,9 +1,8 @@
 # Mental models
 
-I read ["Mental models i find repeatedly useful"](https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d#.ngjmxnx5x) by the great [Gabriel Weinberg](https://twitter.com/yegg) from [DuckDuckGo](https://duckduckgo.com) and loved the post. 
-I highly recommend you read the post. It is awesome.
+I read ["Mental models i find repeatedly useful"](https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d#.ngjmxnx5x) by the great [Gabriel Weinberg](https://twitter.com/yegg) from [DuckDuckGo](https://duckduckgo.com) and loved it. Wouldn't be pretty cool to memorize the list yourself? 
 
-I though it would be pretty cool to memorize the list myself, but reading the post over and over again seemed a bit boring. I really like using [Anki](http://ankisrs.net) (please update that icon!) to memorize new things and I though I could turn the post into an Anki deck. [Using this custom Markdown format](https://gist.github.com/marcelinollano/de710e3d3665162ac752) I produced a deck that you can use with Anki.
+Reading the post over and over again seemed a bit boring. I really like using [Anki](http://ankisrs.net) (please update that icon!) to memorise new things. I though I could turn the post into an Anki deck. [Using this custom Markdown format](https://gist.github.com/marcelinollano/de710e3d3665162ac752) I produced a deck that you can use with Anki.
 
 <img width="634" alt="Anki" src="screen-shot.png">
 
@@ -21,7 +20,7 @@ In the Anki window you can see the category and the frequency number, just like 
 
 1. Download, install and open [Anki](http://ankisrs.net/#download)
 2. [Download the deck](https://github.com/marcelinollano/mental-models/blob/master/mental-models.apkg?raw=true)
-3. Double click the deck and the mental models deck should appear.
+3. Double-click the deck and the mental models deck should be there
 
 ## Credits
 
