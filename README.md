@@ -10,11 +10,9 @@ In the Anki window you can see the category and the frequency number, just like 
 
 > The numbers next to each mental model reflect the frequency with which they come up: 
 
->  (1) - Frequently (62 models). 
-
->  (2) - Occasionally (40 models). 
-
->  (3) - Rarely, though still repeatedly (84 models).
+> (1) — Frequently (62 models) <br/>
+> (2) — Occasionally (40 models) <br/>
+> (3) — Rarely, though still repeatedly (84 models)
 
 ## How to install
 
