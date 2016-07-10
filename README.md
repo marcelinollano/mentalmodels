@@ -1,6 +1,7 @@
 # Mental models
 
-I read ["Mental models i find repeatedly useful"](https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d#.ngjmxnx5x) by the great [Gabriel Weinberg](https://twitter.com/yegg) from [DuckDuckGo](https://duckduckgo.com) and loved it. Wouldn't be pretty cool to memorize the list yourself? 
+I read ["Mental models i find repeatedly useful"](https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d#.ngjmxnx5x) by the great [Gabriel Weinberg](https://twitter.com/yegg) from [DuckDuckGo](https://duckduckgo.com) and loved it.<br/>
+Wouldn't be pretty cool to memorize the list yourself? 
 
 Reading the post over and over again seemed a bit boring. I really like using [Anki](http://ankisrs.net) (please update that icon!) to memorise new things. I though I could turn the post into an Anki deck. [Using this custom Markdown format](https://gist.github.com/marcelinollano/de710e3d3665162ac752) I produced a deck that you can use with Anki.
 
