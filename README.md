@@ -3,7 +3,7 @@
 I read ["Mental models i find repeatedly useful"](https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d#.ngjmxnx5x) by the great [Gabriel Weinberg](https://twitter.com/yegg) from [DuckDuckGo](https://duckduckgo.com) and loved it.<br/>
 Wouldn't be pretty cool to memorize the list yourself? 
 
-It seemed like a great idea but reading the post over and over again was a bit boring. I really like using [Anki](http://ankisrs.net) (please update that icon!) to memorise things and I though I could turn the post into a deck. So, [using this custom Markdown format](https://gist.github.com/marcelinollano/de710e3d3665162ac752) I created a deck that you can use with Anki.
+It seemed like a great idea but reading the post over and over again was a bit boring. I really like using [Anki](http://ankisrs.net) (please update that icon!) to memorise things and I though I could turn the post into a deck. [Using this custom Markdown format](https://gist.github.com/marcelinollano/de710e3d3665162ac752) I created a deck that you can use with Anki.
 
 <img width="634" alt="Anki" src="screen-shot.png">
 
