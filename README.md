@@ -3,7 +3,7 @@
 I read ["Mental models i find repeatedly useful"](https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d#.ngjmxnx5x) by the great [Gabriel Weinberg](https://twitter.com/yegg) from [DuckDuckGo](https://duckduckgo.com) and loved it.<br/>
 Wouldn't be pretty cool to memorize the list yourself? 
 
-Reading the post over and over again seemed a bit boring. I really like using [Anki](http://ankisrs.net) (please update that icon!) to memorise new things. I though I could turn the post into an Anki deck. [Using this custom Markdown format](https://gist.github.com/marcelinollano/de710e3d3665162ac752) I produced a deck that you can use with Anki.
+It seemed like a great idea but reading the post over and over again was a bit boring. I really like using [Anki](http://ankisrs.net) (please update that icon!) to memorise things and I though I could turn the post into a deck. So, [using this custom Markdown format](https://gist.github.com/marcelinollano/de710e3d3665162ac752) I created a deck that you can use with Anki.
 
 <img width="634" alt="Anki" src="screen-shot.png">
 
@@ -23,6 +23,4 @@ In the Anki window you can see the category and the frequency number, just like 
 
 ## Credits
 
-I own nothing, all credit goes to [Gabriel Weinberg](https://twitter.com/yegg) and his great post. Also, I am not affiliated in any way with [Anki](http://ankisrs.net), I just like using it and I recommend it.
-
-Feed your brain!
+I own nothing, all credit goes to [Gabriel Weinberg](https://twitter.com/yegg) and his great post. I am not affiliated in any way with [Anki](http://ankisrs.net), I just like using it and I recommend it. Feed your brain!
