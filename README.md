@@ -23,4 +23,4 @@ In the Anki window you can see the category and the frequency number, just like 
 
 ## Credits
 
-I own nothing, all credit goes to [Gabriel Weinberg](https://twitter.com/yegg) and his great post. I am not affiliated in any way with [Anki](http://ankisrs.net), I just like using it and I recommend it. Feed your brain!
+All credit goes to [Gabriel Weinberg](https://twitter.com/yegg) and his great post. I am not affiliated in any way with [Anki](http://ankisrs.net), I just like using it and I recommend it. Feed your brain!
